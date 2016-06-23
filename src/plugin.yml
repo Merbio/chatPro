@@ -1,0 +1,8 @@
+name: ProChat_na_twoim_serwerzeWykrzyknik
+description: PRO CHAT
+main: ChatPRO_merbio_pl_com.chat_PRO
+version: 12.4
+commands:
+    tahc:
+        description: komenda chatu admina
+        usage: /tahc
